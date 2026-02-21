@@ -1,0 +1,101 @@
+product_id,product_name,category,shelf_life_days
+P1,Product_P1,Personal Care,730
+P2,Product_P2,Personal Care,730
+P3,Product_P3,Grocery,180
+P4,Product_P4,Personal Care,730
+P5,Product_P5,Fresh,5
+P6,Product_P6,Dairy,7
+P7,Product_P7,Fresh,5
+P8,Product_P8,Grocery,180
+P9,Product_P9,Grocery,180
+P10,Product_P10,Dairy,7
+P11,Product_P11,Grocery,180
+P12,Product_P12,Grocery,180
+P13,Product_P13,Fresh,5
+P14,Product_P14,Frozen,365
+P15,Product_P15,Dairy,7
+P16,Product_P16,Grocery,180
+P17,Product_P17,Grocery,180
+P18,Product_P18,Personal Care,730
+P19,Product_P19,Personal Care,730
+P20,Product_P20,Fresh,5
+P21,Product_P21,Grocery,180
+P22,Product_P22,Grocery,180
+P23,Product_P23,Personal Care,730
+P24,Product_P24,Grocery,180
+P25,Product_P25,Fresh,5
+P26,Product_P26,Frozen,365
+P27,Product_P27,Fresh,5
+P28,Product_P28,Frozen,365
+P29,Product_P29,Personal Care,730
+P30,Product_P30,Fresh,5
+P31,Product_P31,Dairy,7
+P32,Product_P32,Personal Care,730
+P33,Product_P33,Frozen,365
+P34,Product_P34,Fresh,5
+P35,Product_P35,Grocery,180
+P36,Product_P36,Frozen,365
+P37,Product_P37,Personal Care,730
+P38,Product_P38,Fresh,5
+P39,Product_P39,Grocery,180
+P40,Product_P40,Grocery,180
+P41,Product_P41,Frozen,365
+P42,Product_P42,Grocery,180
+P43,Product_P43,Fresh,5
+P44,Product_P44,Personal Care,730
+P45,Product_P45,Fresh,5
+P46,Product_P46,Fresh,5
+P47,Product_P47,Dairy,7
+P48,Product_P48,Frozen,365
+P49,Product_P49,Dairy,7
+P50,Product_P50,Personal Care,730
+P51,Product_P51,Dairy,7
+P52,Product_P52,Dairy,7
+P53,Product_P53,Personal Care,730
+P54,Product_P54,Personal Care,730
+P55,Product_P55,Frozen,365
+P56,Product_P56,Frozen,365
+P57,Product_P57,Personal Care,730
+P58,Product_P58,Frozen,365
+P59,Product_P59,Grocery,180
+P60,Product_P60,Fresh,5
+P61,Product_P61,Frozen,365
+P62,Product_P62,Dairy,7
+P63,Product_P63,Grocery,180
+P64,Product_P64,Grocery,180
+P65,Product_P65,Grocery,180
+P66,Product_P66,Personal Care,730
+P67,Product_P67,Fresh,5
+P68,Product_P68,Grocery,180
+P69,Product_P69,Fresh,5
+P70,Product_P70,Frozen,365
+P71,Product_P71,Fresh,5
+P72,Product_P72,Frozen,365
+P73,Product_P73,Dairy,7
+P74,Product_P74,Fresh,5
+P75,Product_P75,Frozen,365
+P76,Product_P76,Fresh,5
+P77,Product_P77,Personal Care,730
+P78,Product_P78,Fresh,5
+P79,Product_P79,Personal Care,730
+P80,Product_P80,Personal Care,730
+P81,Product_P81,Frozen,365
+P82,Product_P82,Frozen,365
+P83,Product_P83,Frozen,365
+P84,Product_P84,Dairy,7
+P85,Product_P85,Fresh,5
+P86,Product_P86,Dairy,7
+P87,Product_P87,Dairy,7
+P88,Product_P88,Grocery,180
+P89,Product_P89,Fresh,5
+P90,Product_P90,Dairy,7
+P91,Product_P91,Grocery,180
+P92,Product_P92,Fresh,5
+P93,Product_P93,Grocery,180
+P94,Product_P94,Fresh,5
+P95,Product_P95,Dairy,7
+P96,Product_P96,Dairy,7
+P97,Product_P97,Personal Care,730
+P98,Product_P98,Dairy,7
+P99,Product_P99,Fresh,5
+P100,Product_P100,Frozen,365
